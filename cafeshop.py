@@ -2,7 +2,6 @@ import streamlit as st
 st.title("🛒 แอปพลิเคชันคำนวณราคาน้ำรวม VAT 7%")
 
 st.title("Menu")
-menu = {
     1: {"name": "ชาไทยเย็น", "price": 35},
     2: {"name": "กาแฟเอสเพรสโซเย็น", "price": 45},
     3: {"name": "ชาเขียวมัทฉะ", "price": 50},
