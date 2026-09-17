@@ -1,8 +1,8 @@
 import streamlit as st
 
-st.title("Indy Cafe Menu")
+st.title("🌕Indy Cafe Menu🌕")
 st.divider()
-st.header("Cafe Menu")
+st.header("☕Cafe Menu☕")
 st.write("ชาไทยเย็น 35 ")
 st.write("กาแฟเอสเพรสโซเย็น 45 บาท")
 st.write("โกโก้เย็น 40 บาท")
