@@ -4,11 +4,11 @@ st.title("Indy Cafe Menu")
 
 st.header("Cafe Menu")
 st.header("ชาไทยเย็น 35 ")
-        st.header("กาแฟเอสเพรสโซเย็น 45 บาท")
-        st.header("โกโก้เย็น 40 บาท")
-         st.header("นมสดคาราเมล 45 บาท")
-         st.header("ชามะนาว 35 บาท")
-         st.header("นมเผือก 35 บาท")
+st.header("กาแฟเอสเพรสโซเย็น 45 บาท")
+ st.header("โกโก้เย็น 40 บาท")
+ st.header("นมสดคาราเมล 45 บาท")
+ st.header("ชามะนาว 35 บาท")
+ st.header("นมเผือก 35 บาท")
 
 st.divider()
 
