@@ -1,8 +1,8 @@
 import streamlit as st
 
-st.title(”☕ Indy Cafe Menu“)
+st.title(”Indy Cafe Menu“)
 
-st.header(”🍰 Cafe Menu“)
+st.header(”Cafe Menu“)
 
 coffee = st.number_input(”Coffee - 50 Baht:“, value=0)
 cake = st.number_input(”Cake - 60 Baht:“, value=0)
@@ -16,11 +16,11 @@ total = price + vat
 
 st.divider()
 
-st.header(”💰 Bill“)
+st.header(" Bill")
 st.write(”Price:“, price, ”Baht“)
 st.write(”VAT 7%:“, vat, ”Baht“)
 st.write(”Total Price:“, total, ”Baht“)
 
 st.divider()
 
-st.write(”Thank you for visiting Indy Cafe! ☕“)
+st.write(”Thank you for visiting Indy Cafe! “)
