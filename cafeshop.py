@@ -18,7 +18,7 @@ st.divider()
 
 st.header(" Bill")
 st.write("Price:", price, "Baht")
-st.write9"VAT 7%:", vat, "Baht")
+st.write9("VAT 7%:", vat, "Baht")
 st.write("Total Price:", total, "Baht")
 
 st.divider()
