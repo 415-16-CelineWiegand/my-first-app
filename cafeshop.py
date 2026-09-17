@@ -13,11 +13,4 @@ st.header(f"• ราคาสุทธิ: {net_price:.2f} บาท")
 
 st.divider()
 
-st.header(" Bill")
-st.write("Price:", price, "Baht")
-st.write9("VAT 7%:", vat, "Baht")
-st.write("Total Price:", total, "Baht")
-
-st.divider()
-
 st.write("Thank you for visiting Indy Cafe! ")
