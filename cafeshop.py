@@ -3,6 +3,15 @@ import streamlit as st
 st.title("Indy Cafe Menu")
 
 st.header("Cafe Menu")
+st.header("ชาไทยเย็น 35 ")
+        st.header("กาแฟเอสเพรสโซเย็น 45 บาท")
+        st.header("โกโก้เย็น 40 บาท")
+         st.header("นมสดคาราเมล 45 บาท")
+         st.header("ชามะนาว 35 บาท")
+         st.header("นมเผือก 35 บาท")
+
+st.divider()
+
 
 price = st.number_input("กรอกราคาเครื่องดื่ม (บาท):", value=0.0)
 vat = price * 0.07
